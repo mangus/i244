@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <title>I244 kaugõpe</title>
     <link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    <link rel="stylesheet" href="assets/styles/materialize.min.css" media="screen,projection">
+    <link rel="stylesheet" href="assets/styles/materialize.min.css">
     <link rel="stylesheet" href="assets/styles/main.css">
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 </head>
@@ -241,7 +241,7 @@
 
     <div class="section">
         <h3>Kodune projekt</h3>
-        <p>Kodune projekt koosneb kahest osast:
+        <p>Kodune projekt koosneb kahest osast:</p>
         <ol>
             <li>Sinu enda projekt, esitamise tähtaeg 29.05.2017 23:59;</li>
             <li>Kolm projekti retsensiooni (30.05.2017 saadab õppejõud retsenseeritavad tööd), esitamise tähtaeg
@@ -250,8 +250,6 @@
             </li>
         </ol>
         <p>Ehk kodust projekti ei ole vaja klassis kaitsta aga see eest on vaja retsenseerida kolme t&ouml;&ouml;d.</p>
-        </p>
-        <p>
         <ul class="collection with-header">
             <li class="collection-header"><h5>Olulised punktid on:</h5></li>
             <li class="collection-item">Kood versioonihalduses juba projekti alguses,</li>
@@ -262,7 +260,6 @@
             <li class="collection-item">Koodide vastamine standarditele (HTML validaator jne).</li>
         </ul>
         <!-- <p><a href="projekt/esitamine.php">Koduse projekti esitamise vorm</a></p> -->
-        </p>
     </div>
 
     <div class="divider"></div>
