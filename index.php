@@ -16,12 +16,12 @@
 <h3>Loengud</h3>
 <p>
   <a href="http://mart.mangus.ee/loengud/i244-esimene.html">Esimese loengu slaidid</a>
-  <!-- <a href="https://echo360.e-ope.ee/ess/echo/presentation/3e82cc85-4eee-4278-92b6-b15627145f7d">salvestus (14.02.2016)</a> -->
+  <a href="https://echo360.e-ope.ee/ess/echo/presentation/ea445100-a95c-4a50-b0f1-5c166e3b1310">salvestus (11.02.2017)</a>
 </p>
 <h3>Praktikumid</h3>
 <p>
   <a href="praktikum1/">Praktikum 1</a>
-  <!-- <a href="https://echo360.e-ope.ee/ess/echo/presentation/0ce7cec5-6ba9-463e-bd3b-c769dfb446bb">salvestus (14.02.2016)</a> -->
+  <a href="https://echo360.e-ope.ee/ess/echo/presentation/0a18531e-1020-4e0c-aeef-5c4277694a2d">salvestus (11.02.2017)</a>
 </p>
 <h2>Iseseisev töö</h2>
 <h3>Iganädalased kodused tööd</h3>
