@@ -1,4 +1,4 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="et">
 <head>
     <meta charset="utf-8">
@@ -7,6 +7,39 @@
     <link rel="stylesheet" href="assets/styles/materialize.min.css">
     <link rel="stylesheet" href="assets/styles/main.css">
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <script src="assets/js/timer.js"></script>
+    <script>
+        var end_1 = new Date('02/19/2017 11:59 PM');
+        var end_2 = new Date('02/26/2017 11:59 PM');
+        var end_3 = new Date('03/05/2017 11:59 PM');
+        var end_4 = new Date('03/12/2017 11:59 PM');
+        var end_5 = new Date('03/19/2017 11:59 PM');
+        var end_6 = new Date('03/26/2017 11:59 PM');
+        var end_7 = new Date('04/02/2017 11:59 PM');
+        var end_8 = new Date('04/09/2017 11:59 PM');
+        var end_9 = new Date('04/16/2017 11:59 PM');
+        var end_10 = new Date('04/23/2017 11:59 PM');
+        var end_11 = new Date('04/30/2017 11:59 PM');
+        var end_12 = new Date('05/07/2017 11:59 PM');
+        var end_13 = new Date('05/14/2017 11:59 PM');
+        var end_14 = new Date('05/21/2017 11:59 PM');
+        var end_15 = new Date('05/28/2017 11:59 PM');
+        var timer_1 = setInterval(function () { showRemaining(end_1, "countdown_1"); }, 1000);
+        var timer_2 = setInterval(function () { showRemaining(end_2, "countdown_2"); }, 1000);
+        var timer_3 = setInterval(function () { showRemaining(end_3, "countdown_3"); }, 1000);
+        var timer_4 = setInterval(function () { showRemaining(end_4, "countdown_4"); }, 1000);
+        var timer_5 = setInterval(function () { showRemaining(end_5, "countdown_5"); }, 1000);
+        var timer_6 = setInterval(function () { showRemaining(end_6, "countdown_6"); }, 1000);
+        var timer_7 = setInterval(function () { showRemaining(end_7, "countdown_7"); }, 1000);
+        var timer_8 = setInterval(function () { showRemaining(end_8, "countdown_8"); }, 1000);
+        var timer_9 = setInterval(function () { showRemaining(end_9, "countdown_9"); }, 1000);
+        var timer_10 = setInterval(function () { showRemaining(end_10, "countdown_10"); }, 1000);
+        var timer_11 = setInterval(function () { showRemaining(end_11, "countdown_11"); }, 1000);
+        var timer_12 = setInterval(function () { showRemaining(end_12, "countdown_12"); }, 1000);
+        var timer_13 = setInterval(function () { showRemaining(end_13, "countdown_13"); }, 1000);
+        var timer_14 = setInterval(function () { showRemaining(end_14, "countdown_14"); }, 1000);
+        var timer_15 = setInterval(function () { showRemaining(end_15, "countdown_15"); }, 1000);
+    </script>
 </head>
 <body>
 <div class="page-wrap container">
@@ -60,6 +93,7 @@
                 <th>Teema</th>
                 <th>Päevaõppe materjalid</th>
                 <th>Tähtaeg</th>
+                <th>Jäänud</th>
             </tr>
             <tr>
                 <td>1</td>
@@ -71,7 +105,8 @@
                     <span class="separator"> | </span>
                     <a href="http://enos.itcollege.ee/~ttanav/VRI/Kodused/01/ylesanne.html">ülesanne</a>
                 </td>
-                <td>19.02.2017 23:59</td>
+				<td>19.02.2017 23:59</td>
+				<td><span id="countdown_1"></span></td>
             </tr>
             <tr>
                 <td>2</td>
@@ -84,6 +119,7 @@
                     <a href="http://enos.itcollege.ee/~ttanav/VRI/Kodused/02/ylesanne.html">ülesanne</a>
                 </td>
                 <td>26.02.2017 23:59</td>
+				<td><span id="countdown_2"></span></td>
             </tr>
             <tr>
                 <td>3</td>
@@ -96,6 +132,7 @@
                     <a href="http://enos.itcollege.ee/~ttanav/VRI/Kodused/03/ylesanne.html">ülesanne</a>
                 </td>
                 <td>05.03.2017 23:59</td>
+				<td><span id="countdown_3"></span></td>
             </tr>
             <tr>
                 <td>4</td>
@@ -108,6 +145,7 @@
                     <a href="http://enos.itcollege.ee/~ttanav/VRI/Kodused/04/ylesanne.html">ülesanne</a>
                 </td>
                 <td>12.03.2017 23:59</td>
+				<td><span id="countdown_4"></span></td>
             </tr>
             <tr>
                 <td>5</td>
@@ -120,6 +158,7 @@
                     <a href="http://enos.itcollege.ee/~ttanav/VRI/Kodused/05/ylesanne.html">ülesanne</a>
                 </td>
                 <td>19.03.2017 23:59</td>
+				<td><span id="countdown_5"></span></td>
             </tr>
             <tr>
                 <td>6</td>
@@ -132,6 +171,7 @@
                     <a href="http://enos.itcollege.ee/~ttanav/VRI/Kodused/06/ylesanne.html">ülesanne</a>
                 </td>
                 <td>26.03.2017 23:59</td>
+				<td><span id="countdown_6"></span></td>
             </tr>
             <tr>
                 <td>7</td>
@@ -144,6 +184,7 @@
                     <a href="http://enos.itcollege.ee/~ttanav/VRI/Kodused/07/ylesanne.html">ülesanne</a>
                 </td>
                 <td>02.04.2017 23:59</td>
+				<td><span id="countdown_7"></span></td>
             </tr>
             <tr>
                 <td>8</td>
@@ -156,6 +197,7 @@
                     <a href="http://enos.itcollege.ee/~ttanav/VRI/Kodused/08/ylesanne.html">ülesanne</a>
                 </td>
                 <td>09.04.2017 23:59</td>
+				<td><span id="countdown_8"></span></td>
             </tr>
             <tr>
                 <td>9</td>
@@ -168,6 +210,7 @@
                     <a href="http://enos.itcollege.ee/~ttanav/VRI/Kodused/09/ylesanne.html">ülesanne</a>
                 </td>
                 <td>16.04.2017 23:59</td>
+				<td><span id="countdown_9"></span></td>
             </tr>
             <tr>
                 <td>10</td>
@@ -180,6 +223,7 @@
                     <a href="http://enos.itcollege.ee/~ttanav/VRI/Kodused/10/ylesanne.html">ülesanne</a>
                 </td>
                 <td>23.04.2017 23:59</td>
+				<td><span id="countdown_10"></span></td>
             </tr>
             <tr>
                 <td>11</td>
@@ -192,6 +236,7 @@
                     <a href="http://enos.itcollege.ee/~ttanav/VRI/Kodused/11/ylesanne.html">ülesanne</a>
                 </td>
                 <td>30.04.2017 23:59</td>
+				<td><span id="countdown_11"></span></td>
             </tr>
             <tr>
                 <td>12</td>
@@ -204,6 +249,7 @@
                     <a href="http://enos.itcollege.ee/~ttanav/VRI/Kodused/12/ylesanne.html">ülesanne</a>
                 </td>
                 <td>07.05.2017 23:59</td>
+				<td><span id="countdown_12"></span></td>
             </tr>
             <tr>
                 <td>13</td>
@@ -216,6 +262,7 @@
                     <a href="http://enos.itcollege.ee/~ttanav/VRI/Kodused/13/ylesanne.html">ülesanne</a>
                 </td>
                 <td>14.05.2017 23:59</td>
+				<td><span id="countdown_13"></span></td>
             </tr>
             <tr>
                 <td>14</td>
@@ -228,11 +275,13 @@
                     <a href="http://enos.itcollege.ee/~ttanav/VRI/Kodused/14/ylesanne.html">ülesanne</a>
                 </td>
                 <td>21.05.2017 23:59</td>
+				<td><span id="countdown_14"></span></td>
             </tr>
             <tr>
                 <td>15</td>
                 <td colspan="2">Tegele koduse projektiga, aruandes kirjuta progressist</td>
                 <td>28.05.2017 23:59</td>
+				<td><span id="countdown_15"></span></td>
             </tr>
         </table>
     </div>
@@ -251,7 +300,7 @@
         </ol>
         <p>Ehk kodust projekti ei ole vaja klassis kaitsta aga see eest on vaja retsenseerida kolme t&ouml;&ouml;d.</p>
         <ul class="collection with-header">
-            <li class="collection-header"><h5>Olulised punktid on:</h5></li>
+<h5>Olulised punktid on:</h5>
             <li class="collection-item">Kood versioonihalduses juba projekti alguses,</li>
             <li class="collection-item">Töötav demo rakendus avalikult ligipääsetav,</li>
             <li class="collection-item">Andmebaasi kasutamine,</li>
