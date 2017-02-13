@@ -1,0 +1,16 @@
+html {
+    font-family: 'Roboto', sans-serif;
+}
+
+.page-wrap .main-heading small {
+    display: block;
+}
+
+/* Overriding material design colors. Should be done with a proper SASS setup, so I am sorry... */
+blockquote {
+    border-left-color: #01579b;
+}
+
+footer.page-footer {
+    background-color: #01579b;
+}
