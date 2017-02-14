@@ -12,7 +12,13 @@
             document.getElementById(place).innerHTML = "Aeg on l&auml;bi!";
 
             return;
-        }
+
+        } else if (distance < 86400000) {
+	
+            document.getElementById(place).style.color = "#ff0000";
+
+	}
+	
         var days = Math.floor(distance / _day);
         var hours = Math.floor((distance % _day) / _hour);
         var minutes = Math.floor((distance % _hour) / _minute);
@@ -22,7 +28,7 @@
 		if (seconds < 10) {seconds = "0"+seconds;}
 
 		if (days !== 0){
-			document.getElementById(place).innerHTML = days + ":";
+			document.getElementById(place).innerHTML = days + "p ";
 			document.getElementById(place).innerHTML += hours + ":";
 		} else {                              
 			document.getElementById(place).innerHTML = hours + ":";
@@ -31,3 +37,4 @@
 			document.getElementById(place).innerHTML += seconds;
     }
 
+    
