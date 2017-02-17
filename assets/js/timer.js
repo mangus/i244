@@ -2,8 +2,10 @@
     var _minute = _second * 60;
     var _hour = _minute * 60;
     var _day = _hour * 24;
+	
 
-    function showRemaining(end, place) {
+    function showRemaining(end, place, timer) {
+	
         var now = new Date();
         var distance = end - now;
         if (distance < 0) {
@@ -13,11 +15,19 @@
 
             return;
 
-        } else if (distance < 86400000) {
-	
-            document.getElementById(place).style.color = "#ff0000";
+        } else if (place  == "countdown") {
 
-	}
+		if (distance < 600000) {
+
+			document.getElementById(place).style.color = "#ff0000";
+
+		}
+                
+	} else if (distance < 86400000) {
+
+		document.getElementById(place).style.color = "#ff0000";
+
+	}    
 	
         var days = Math.floor(distance / _day);
         var hours = Math.floor((distance % _day) / _hour);
@@ -36,5 +46,3 @@
 			document.getElementById(place).innerHTML += minutes + ":";
 			document.getElementById(place).innerHTML += seconds;
     }
-
-    
