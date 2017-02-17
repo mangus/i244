@@ -24,21 +24,21 @@
         var end_13 = new Date('05/14/2017 11:59 PM');
         var end_14 = new Date('05/21/2017 11:59 PM');
         var end_15 = new Date('05/28/2017 11:59 PM');
-        var timer_1 = setInterval(function () { showRemaining(end_1, "countdown_1"); }, 1000);
-        var timer_2 = setInterval(function () { showRemaining(end_2, "countdown_2"); }, 1000);
-        var timer_3 = setInterval(function () { showRemaining(end_3, "countdown_3"); }, 1000);
-        var timer_4 = setInterval(function () { showRemaining(end_4, "countdown_4"); }, 1000);
-        var timer_5 = setInterval(function () { showRemaining(end_5, "countdown_5"); }, 1000);
-        var timer_6 = setInterval(function () { showRemaining(end_6, "countdown_6"); }, 1000);
-        var timer_7 = setInterval(function () { showRemaining(end_7, "countdown_7"); }, 1000);
-        var timer_8 = setInterval(function () { showRemaining(end_8, "countdown_8"); }, 1000);
-        var timer_9 = setInterval(function () { showRemaining(end_9, "countdown_9"); }, 1000);
-        var timer_10 = setInterval(function () { showRemaining(end_10, "countdown_10"); }, 1000);
-        var timer_11 = setInterval(function () { showRemaining(end_11, "countdown_11"); }, 1000);
-        var timer_12 = setInterval(function () { showRemaining(end_12, "countdown_12"); }, 1000);
-        var timer_13 = setInterval(function () { showRemaining(end_13, "countdown_13"); }, 1000);
-        var timer_14 = setInterval(function () { showRemaining(end_14, "countdown_14"); }, 1000);
-        var timer_15 = setInterval(function () { showRemaining(end_15, "countdown_15"); }, 1000);
+        var timer_1 = setInterval(function () { showRemaining(end_1, "countdown_1", timer_1); }, 1000);
+        var timer_2 = setInterval(function () { showRemaining(end_2, "countdown_2", timer_2); }, 1000);
+        var timer_3 = setInterval(function () { showRemaining(end_3, "countdown_3", timer_3); }, 1000);
+        var timer_4 = setInterval(function () { showRemaining(end_4, "countdown_4", timer_4); }, 1000);
+        var timer_5 = setInterval(function () { showRemaining(end_5, "countdown_5", timer_5); }, 1000);
+        var timer_6 = setInterval(function () { showRemaining(end_6, "countdown_6", timer_6); }, 1000);
+        var timer_7 = setInterval(function () { showRemaining(end_7, "countdown_7", timer_7); }, 1000);
+        var timer_8 = setInterval(function () { showRemaining(end_8, "countdown_8", timer_8); }, 1000);
+        var timer_9 = setInterval(function () { showRemaining(end_9, "countdown_9", timer_9); }, 1000);
+        var timer_10 = setInterval(function () { showRemaining(end_10, "countdown_10", timer_10); }, 1000);
+        var timer_11 = setInterval(function () { showRemaining(end_11, "countdown_11", timer_11); }, 1000);
+        var timer_12 = setInterval(function () { showRemaining(end_12, "countdown_12", timer_12); }, 1000);
+        var timer_13 = setInterval(function () { showRemaining(end_13, "countdown_13", timer_13); }, 1000);
+        var timer_14 = setInterval(function () { showRemaining(end_14, "countdown_14", timer_14); }, 1000);
+        var timer_15 = setInterval(function () { showRemaining(end_15, "countdown_15", timer_15); }, 1000);
     </script>
 </head>
 <body>
