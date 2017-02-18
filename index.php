@@ -57,16 +57,16 @@
                 <h4>Loengud</h4>
                 <span>1. loeng (11.02.2017) - </span>
                 <span>
-                <a href="http://mart.mangus.ee/loengud/i244-esimene.html">Slaidid</a>
+                <a target="_blank" href="http://mart.mangus.ee/loengud/i244-esimene.html">Slaidid</a>
                 <span class="separator"> / </span>
-                <a href="https://echo360.e-ope.ee/ess/echo/presentation/ea445100-a95c-4a50-b0f1-5c166e3b1310">Salvestus</a>
+                <a target="_blank" href="https://echo360.e-ope.ee/ess/echo/presentation/ea445100-a95c-4a50-b0f1-5c166e3b1310">Salvestus</a>
             </span>
             </div>
             <div class="col s6">
                 <h4>Praktikumid</h4>
                 <span>1. praktikum (11.02.2017) - </span>
                 <span>
-                <a href="https://echo360.e-ope.ee/ess/echo/presentation/0a18531e-1020-4e0c-aeef-5c4277694a2d">Salvestus</a>
+                <a target="_blank" href="https://echo360.e-ope.ee/ess/echo/presentation/0a18531e-1020-4e0c-aeef-5c4277694a2d">Salvestus</a>
             </span>
             </div>
         </div>
@@ -84,7 +84,7 @@
         <p>
             Iga (korrektne) aruanne annab 2 punkti ja kokku moodustavad need aruanded 30% aine tulemusest.
             Kui viidatud materjalidest jääb väheks, siis uuri ja otsi ise internetist juurde.
-            Võid vaadata ka päevaõppe praktikumide salvestusi, mis leiad <a
+            Võid vaadata ka päevaõppe praktikumide salvestusi, mis leiad <a target="_blank"
                 href="https://echo360.e-ope.ee/ess/portal/section/88b1a22f-7260-4f6e-823c-451034853ea6">kuskilt siit</a>.
         </p>
         <table class="striped">
@@ -99,11 +99,11 @@
                 <td>1</td>
                 <td>Sissejuhatus HTML-i</td>
                 <td>
-                    <a href="https://echo360.e-ope.ee/ess/echo/presentation/7e9c8258-3664-4b9e-b487-dfbae7c5dcf9?ec=true">loeng</a>
+                    <a target="_blank" href="https://echo360.e-ope.ee/ess/echo/presentation/7e9c8258-3664-4b9e-b487-dfbae7c5dcf9?ec=true">loeng</a>
                     <span class="separator"> | </span>
-                    <a href="http://enos.itcollege.ee/~ttanav/VRI/Praktikumid/prax01/ylesanne.html">praktikum</a>
+                    <a target="_blank" href="http://enos.itcollege.ee/~ttanav/VRI/Praktikumid/prax01/ylesanne.html">praktikum</a>
                     <span class="separator"> | </span>
-                    <a href="http://enos.itcollege.ee/~ttanav/VRI/Kodused/01/ylesanne.html">ülesanne</a>
+                    <a target="_blank" href="http://enos.itcollege.ee/~ttanav/VRI/Kodused/01/ylesanne.html">ülesanne</a>
                 </td>
 				<td>19.02.2017 23:59</td>
 				<td><span id="countdown_1"></span></td>
@@ -112,11 +112,11 @@
                 <td>2</td>
                 <td>HTML-i keerukamad osad</td>
                 <td>
-                    <a href="https://echo360.e-ope.ee/ess/echo/presentation/bdbe400c-1d81-4e59-bf28-32dccc26af78?ec=true">loeng</a>
+                    <a target="_blank" href="https://echo360.e-ope.ee/ess/echo/presentation/bdbe400c-1d81-4e59-bf28-32dccc26af78?ec=true">loeng</a>
                     <span class="separator"> | </span>
-                    <a href="http://enos.itcollege.ee/~ttanav/VRI/Praktikumid/prax02/ylesanne.html">praktikum</a>
+                    <a target="_blank" href="http://enos.itcollege.ee/~ttanav/VRI/Praktikumid/prax02/ylesanne.html">praktikum</a>
                     <span class="separator"> | </span>
-                    <a href="http://enos.itcollege.ee/~ttanav/VRI/Kodused/02/ylesanne.html">ülesanne</a>
+                    <a target="_blank" href="http://enos.itcollege.ee/~ttanav/VRI/Kodused/02/ylesanne.html">ülesanne</a>
                 </td>
                 <td>26.02.2017 23:59</td>
 				<td><span id="countdown_2"></span></td>
@@ -125,11 +125,11 @@
                 <td>3</td>
                 <td>CSS sissejuhatus</td>
                 <td>
-                    <a href="https://echo360.e-ope.ee/ess/echo/presentation/8d99fbf2-3cb1-4004-9cda-15104397c27b?ec=true">loeng</a>
+                    <a target="_blank" href="https://echo360.e-ope.ee/ess/echo/presentation/8d99fbf2-3cb1-4004-9cda-15104397c27b?ec=true">loeng</a>
                     <span class="separator"> | </span>
-                    <a href="http://enos.itcollege.ee/~ttanav/VRI/Praktikumid/prax03/ylesanne.html">praktikum</a>
+                    <a target="_blank" href="http://enos.itcollege.ee/~ttanav/VRI/Praktikumid/prax03/ylesanne.html">praktikum</a>
                     <span class="separator"> | </span>
-                    <a href="http://enos.itcollege.ee/~ttanav/VRI/Kodused/03/ylesanne.html">ülesanne</a>
+                    <a target="_blank" href="http://enos.itcollege.ee/~ttanav/VRI/Kodused/03/ylesanne.html">ülesanne</a>
                 </td>
                 <td>05.03.2017 23:59</td>
 				<td><span id="countdown_3"></span></td>
@@ -138,11 +138,11 @@
                 <td>4</td>
                 <td>Kujundus ja paigutus</td>
                 <td>
-                    <a href="https://echo360.e-ope.ee/ess/echo/presentation/c2503f9e-bf75-4f32-ad8f-7e9816ca75dd?ec=true">loeng</a>
+                    <a target="_blank" href="https://echo360.e-ope.ee/ess/echo/presentation/c2503f9e-bf75-4f32-ad8f-7e9816ca75dd?ec=true">loeng</a>
                     <span class="separator"> | </span>
-                    <a href="http://enos.itcollege.ee/~ttanav/VRI/Praktikumid/prax04/ylesanne.html">praktikum</a>
+                    <a target="_blank" href="http://enos.itcollege.ee/~ttanav/VRI/Praktikumid/prax04/ylesanne.html">praktikum</a>
                     <span class="separator"> | </span>
-                    <a href="http://enos.itcollege.ee/~ttanav/VRI/Kodused/04/ylesanne.html">ülesanne</a>
+                    <a target="_blank" href="http://enos.itcollege.ee/~ttanav/VRI/Kodused/04/ylesanne.html">ülesanne</a>
                 </td>
                 <td>12.03.2017 23:59</td>
 				<td><span id="countdown_4"></span></td>
@@ -151,11 +151,11 @@
                 <td>5</td>
                 <td>Javascript</td>
                 <td>
-                    <a href="https://echo360.e-ope.ee/ess/echo/presentation/74f2fadf-f5c5-4747-83cb-784046ecd33e">loeng</a>
+                    <a target="_blank" href="https://echo360.e-ope.ee/ess/echo/presentation/74f2fadf-f5c5-4747-83cb-784046ecd33e">loeng</a>
                     <span class="separator"> | </span>
-                    <a href="http://enos.itcollege.ee/~ttanav/VRI/Praktikumid/prax05/ylesanne.html">praktikum</a>
+                    <a target="_blank" href="http://enos.itcollege.ee/~ttanav/VRI/Praktikumid/prax05/ylesanne.html">praktikum</a>
                     <span class="separator"> | </span>
-                    <a href="http://enos.itcollege.ee/~ttanav/VRI/Kodused/05/ylesanne.html">ülesanne</a>
+                    <a target="_blank" href="http://enos.itcollege.ee/~ttanav/VRI/Kodused/05/ylesanne.html">ülesanne</a>
                 </td>
                 <td>19.03.2017 23:59</td>
 				<td><span id="countdown_5"></span></td>
@@ -164,11 +164,11 @@
                 <td>6</td>
                 <td>jQuery</td>
                 <td>
-                    <a href="https://echo360.e-ope.ee/ess/echo/presentation/f1b93c7b-97af-4f69-a3e5-29f1b036ba6f">loeng</a>
+                    <a target="_blank" href="https://echo360.e-ope.ee/ess/echo/presentation/f1b93c7b-97af-4f69-a3e5-29f1b036ba6f">loeng</a>
                     <span class="separator"> | </span>
-                    <a href="http://enos.itcollege.ee/~ttanav/VRI/Praktikumid/prax06/ylesanne.html">praktikum</a>
+                    <a target="_blank" href="http://enos.itcollege.ee/~ttanav/VRI/Praktikumid/prax06/ylesanne.html">praktikum</a>
                     <span class="separator"> | </span>
-                    <a href="http://enos.itcollege.ee/~ttanav/VRI/Kodused/06/ylesanne.html">ülesanne</a>
+                    <a target="_blank" href="http://enos.itcollege.ee/~ttanav/VRI/Kodused/06/ylesanne.html">ülesanne</a>
                 </td>
                 <td>26.03.2017 23:59</td>
 				<td><span id="countdown_6"></span></td>
@@ -177,11 +177,11 @@
                 <td>7</td>
                 <td>PHP sissejuhatus</td>
                 <td>
-                    <a href="https://echo360.e-ope.ee/ess/echo/presentation/b10bbe40-daf0-4110-b172-20c344176c52">loeng</a>
+                    <a target="_blank" href="https://echo360.e-ope.ee/ess/echo/presentation/b10bbe40-daf0-4110-b172-20c344176c52">loeng</a>
                     <span class="separator"> | </span>
-                    <a href="http://enos.itcollege.ee/~ttanav/VRI/Praktikumid/prax07/ylesanne.html">praktikum</a>
+                    <a target="_blank" href="http://enos.itcollege.ee/~ttanav/VRI/Praktikumid/prax07/ylesanne.html">praktikum</a>
                     <span class="separator"> | </span>
-                    <a href="http://enos.itcollege.ee/~ttanav/VRI/Kodused/07/ylesanne.html">ülesanne</a>
+                    <a target="_blank" href="http://enos.itcollege.ee/~ttanav/VRI/Kodused/07/ylesanne.html">ülesanne</a>
                 </td>
                 <td>02.04.2017 23:59</td>
 				<td><span id="countdown_7"></span></td>
@@ -190,11 +190,11 @@
                 <td>8</td>
                 <td>Andmeside (GET ja POST)</td>
                 <td>
-                    <a href="https://echo360.e-ope.ee/ess/echo/presentation/b654af75-5831-413e-bc1d-b8372f0fc724">loeng</a>
+                    <a target="_blank" href="https://echo360.e-ope.ee/ess/echo/presentation/b654af75-5831-413e-bc1d-b8372f0fc724">loeng</a>
                     <span class="separator"> | </span>
-                    <a href="http://enos.itcollege.ee/~ttanav/VRI/Praktikumid/prax08/ylesanne.html">praktikum</a>
+                    <a target="_blank" href="http://enos.itcollege.ee/~ttanav/VRI/Praktikumid/prax08/ylesanne.html">praktikum</a>
                     <span class="separator"> | </span>
-                    <a href="http://enos.itcollege.ee/~ttanav/VRI/Kodused/08/ylesanne.html">ülesanne</a>
+                    <a target="_blank" href="http://enos.itcollege.ee/~ttanav/VRI/Kodused/08/ylesanne.html">ülesanne</a>
                 </td>
                 <td>09.04.2017 23:59</td>
 				<td><span id="countdown_8"></span></td>
@@ -203,11 +203,11 @@
                 <td>9</td>
                 <td>MVC</td>
                 <td>
-                    <a href="https://echo360.e-ope.ee/ess/echo/presentation/48a8bc31-1e75-45cc-953b-6d97ed312ffa">loeng</a>
+                    <a target="_blank" href="https://echo360.e-ope.ee/ess/echo/presentation/48a8bc31-1e75-45cc-953b-6d97ed312ffa">loeng</a>
                     <span class="separator"> | </span>
-                    <a href="http://enos.itcollege.ee/~ttanav/VRI/Praktikumid/prax09/ylesanne.html">praktikum</a>
+                    <a target="_blank" href="http://enos.itcollege.ee/~ttanav/VRI/Praktikumid/prax09/ylesanne.html">praktikum</a>
                     <span class="separator"> | </span>
-                    <a href="http://enos.itcollege.ee/~ttanav/VRI/Kodused/09/ylesanne.html">ülesanne</a>
+                    <a target="_blank" href="http://enos.itcollege.ee/~ttanav/VRI/Kodused/09/ylesanne.html">ülesanne</a>
                 </td>
                 <td>16.04.2017 23:59</td>
 				<td><span id="countdown_9"></span></td>
@@ -216,11 +216,11 @@
                 <td>10</td>
                 <td>Autentimine, küpsised, sessioonid</td>
                 <td>
-                    <a href="https://echo360.e-ope.ee/ess/echo/presentation/4e19d63a-ccb2-46c1-b782-e3fa55542488">loeng</a>
+                    <a target="_blank" href="https://echo360.e-ope.ee/ess/echo/presentation/4e19d63a-ccb2-46c1-b782-e3fa55542488">loeng</a>
                     <span class="separator"> | </span>
-                    <a href="http://enos.itcollege.ee/~ttanav/VRI/Praktikumid/prax10/ylesanne.html">praktikum</a>
+                    <a target="_blank" href="http://enos.itcollege.ee/~ttanav/VRI/Praktikumid/prax10/ylesanne.html">praktikum</a>
                     <span class="separator"> | </span>
-                    <a href="http://enos.itcollege.ee/~ttanav/VRI/Kodused/10/ylesanne.html">ülesanne</a>
+                    <a target="_blank" href="http://enos.itcollege.ee/~ttanav/VRI/Kodused/10/ylesanne.html">ülesanne</a>
                 </td>
                 <td>23.04.2017 23:59</td>
 				<td><span id="countdown_10"></span></td>
@@ -229,11 +229,11 @@
                 <td>11</td>
                 <td>MySQL</td>
                 <td>
-                    <a href="https://echo360.e-ope.ee/ess/echo/presentation/81b6ba94-d5ca-4506-bea4-728b3164d902?ec=true">loeng</a>
+                    <a target="_blank" href="https://echo360.e-ope.ee/ess/echo/presentation/81b6ba94-d5ca-4506-bea4-728b3164d902?ec=true">loeng</a>
                     <span class="separator"> | </span>
-                    <a href="http://enos.itcollege.ee/~ttanav/VRI/Praktikumid/prax11/ylesanne.html">praktikum</a>
+                    <a target="_blank" href="http://enos.itcollege.ee/~ttanav/VRI/Praktikumid/prax11/ylesanne.html">praktikum</a>
                     <span class="separator"> | </span>
-                    <a href="http://enos.itcollege.ee/~ttanav/VRI/Kodused/11/ylesanne.html">ülesanne</a>
+                    <a target="_blank" href="http://enos.itcollege.ee/~ttanav/VRI/Kodused/11/ylesanne.html">ülesanne</a>
                 </td>
                 <td>30.04.2017 23:59</td>
 				<td><span id="countdown_11"></span></td>
@@ -242,11 +242,11 @@
                 <td>12</td>
                 <td>MySQL + PHP</td>
                 <td>
-                    <a href="https://echo360.e-ope.ee/ess/echo/presentation/01a81925-3d5c-4e8f-b040-55cdecbfd25a?ec=true">loeng</a>
+                    <a target="_blank" href="https://echo360.e-ope.ee/ess/echo/presentation/01a81925-3d5c-4e8f-b040-55cdecbfd25a?ec=true">loeng</a>
                     <span class="separator"> | </span>
-                    <a href="http://enos.itcollege.ee/~ttanav/VRI/Praktikumid/prax12/ylesanne.html">praktikum</a>
+                    <a target="_blank" href="http://enos.itcollege.ee/~ttanav/VRI/Praktikumid/prax12/ylesanne.html">praktikum</a>
                     <span class="separator"> | </span>
-                    <a href="http://enos.itcollege.ee/~ttanav/VRI/Kodused/12/ylesanne.html">ülesanne</a>
+                    <a target="_blank" href="http://enos.itcollege.ee/~ttanav/VRI/Kodused/12/ylesanne.html">ülesanne</a>
                 </td>
                 <td>07.05.2017 23:59</td>
 				<td><span id="countdown_12"></span></td>
@@ -255,11 +255,11 @@
                 <td>13</td>
                 <td>MySQL + PHP (vol 2)</td>
                 <td>
-                    <a href="https://echo360.e-ope.ee/ess/echo/presentation/16b69ed9-a630-41a3-a24b-1f1373811f46?ec=true">loeng</a>
+                    <a target="_blank" href="https://echo360.e-ope.ee/ess/echo/presentation/16b69ed9-a630-41a3-a24b-1f1373811f46?ec=true">loeng</a>
                     <span class="separator"> | </span>
-                    <a href="http://enos.itcollege.ee/~ttanav/VRI/Praktikumid/prax13/ylesanne.html">praktikum</a>
+                    <a target="_blank" href="http://enos.itcollege.ee/~ttanav/VRI/Praktikumid/prax13/ylesanne.html">praktikum</a>
                     <span class="separator"> | </span>
-                    <a href="http://enos.itcollege.ee/~ttanav/VRI/Kodused/13/ylesanne.html">ülesanne</a>
+                    <a target="_blank" href="http://enos.itcollege.ee/~ttanav/VRI/Kodused/13/ylesanne.html">ülesanne</a>
                 </td>
                 <td>14.05.2017 23:59</td>
 				<td><span id="countdown_13"></span></td>
@@ -268,11 +268,11 @@
                 <td>14</td>
                 <td>Turvalisus</td>
                 <td>
-                    <a href="https://echo360.e-ope.ee/ess/echo/presentation/3e069ed7-b3d9-4656-91ba-0209bb203686?ec=true">loeng</a>
+                    <a target="_blank" href="https://echo360.e-ope.ee/ess/echo/presentation/3e069ed7-b3d9-4656-91ba-0209bb203686?ec=true">loeng</a>
                     <span class="separator"> | </span>
-                    <a href="http://enos.itcollege.ee/~ttanav/VRI/Praktikumid/prax14/ylesanne.html">praktikum</a>
+                    <a target="_blank" href="http://enos.itcollege.ee/~ttanav/VRI/Praktikumid/prax14/ylesanne.html">praktikum</a>
                     <span class="separator"> | </span>
-                    <a href="http://enos.itcollege.ee/~ttanav/VRI/Kodused/14/ylesanne.html">ülesanne</a>
+                    <a target="_blank" href="http://enos.itcollege.ee/~ttanav/VRI/Kodused/14/ylesanne.html">ülesanne</a>
                 </td>
                 <td>21.05.2017 23:59</td>
 				<td><span id="countdown_14"></span></td>
@@ -298,11 +298,11 @@
                 23:59.
             </li>
         </ol>
-        <p>Ehk kodust projekti ei ole vaja klassis kaitsta aga see eest on vaja retsenseerida kolme t&ouml;&ouml;d.</p>
+        <p>Ehk kodust projekti ei ole vaja klassis kaitsta, aga see-eest on vaja retsenseerida kolme t&ouml;&ouml;d.</p>
         <ul class="collection with-header">
 <h5>Olulised punktid on:</h5>
             <li class="collection-item">Kood versioonihalduses juba projekti alguses,</li>
-            <li class="collection-item">Töötav demo rakendus avalikult ligipääsetav,</li>
+            <li class="collection-item">Töötav demorakendus avalikult ligipääsetav,</li>
             <li class="collection-item">Andmebaasi kasutamine,</li>
             <li class="collection-item">HTML-i, CSS-i ja Javascripti kasutamine kasutajaliideses,</li>
             <li class="collection-item">Rakenduse turvalisus,</li>
@@ -318,7 +318,7 @@
             Eksamil tuleb iseseisvalt lahendada praktiline ülesanne. Selleks on vaja osata kasutada HTML-i, CSS-i,
             Javascript-i,
             MySQL-i ja PHP-d.<br/>
-            Tulemuste esitamine käib läbi versioonihalduse (git), niiet selle kasutamise oskus on hädavajalik.<br/>
+            Tulemuste esitamine käib läbi versioonihalduse (git), nii et selle kasutamise oskus on hädavajalik.<br/>
             Eksam moodustab 40% aine hindest. Eksami läbimisel on lävend, ehk alla 50%-se tulemusega ei ole võimalik
             ainet
             läbida.
@@ -341,7 +341,7 @@
         <blockquote>
             <h4>Jututuba</h4>
             <p>
-                Kui tegeled aine teemadega, siis ilmuta end ka <a href="https://gitter.im/i244/">jututoas</a>!<br/>
+                Kui tegeled aine teemadega, siis ilmuta end ka <a target="_blank" href="https://gitter.im/i244/">jututoas</a>!<br/>
                 Saab kaastudengitega suhelda ja abi küsida. Kui väga läbuks ei lähe, siis jälgib seda ka õppejõud ning
                 püüab
                 abistada.<br/>
@@ -352,7 +352,7 @@
             <h4>See lehekülg</h4>
             <p>
                 Kui leiad trükivea või tahad seda lehte niisama sisulisemaks/ilusamaks/huvitavamaks teha, siis palun väga:
-                <a href="https://github.com/mangus/i244">tee pull request GitHub-is</a>.
+                <a target="_blank" href="https://github.com/mangus/i244">tee pull request GitHub-is</a>.
             </p>
             <p>Asjalike täienduste eest lisapunktid garanteeritud.</p>
         </blockquote>
