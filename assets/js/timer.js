@@ -36,7 +36,7 @@
 		if (minutes < 10) {minutes = "0"+minutes;}
 		if (seconds < 10) {seconds = "0"+seconds;}
 
-		if ( days % 10 == 1 ){
+		if ( days == 1 ){
 
 			document.getElementById(place).innerHTML = days + " päev ";
 
@@ -50,7 +50,7 @@
 
 		}
 
-		if( hours % 10 == 1 ){
+		if( hours == 1 ){
 
 				document.getElementById(place).innerHTML += hours + " tund ";
 
