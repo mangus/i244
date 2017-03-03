@@ -6,24 +6,15 @@
     <link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link rel="stylesheet" href="../assets/styles/materialize.min.css">
     <link rel="stylesheet" href="../assets/styles/main.css">
-    <script src="../assets/js/timer.js"></script>
-    <script>
-        var end = new Date('03/04/2017 4:30 PM');
-        var timer = setInterval(function () { showRemaining(end, "countdown"); }, 1000);
-    </script>
 </head>
 <body>
     <div class="page-wrap container">
         <h1 class="main-heading">I244 teine praktikum</h1>
         <div class="divider"></div>
-        <h2>
-            <span id="countdown" class="timer"></span>
-        </h2>
-        <div class="divider"></div>
         <div class="section">
             <h3>Kirjeldus</h3>
             <p>
-                Tänases praktikumis lõpetame eelmise praktikumi töö (et tekiks ülevaade kõikidest tehnoloogiastest mis kasutame) ning proovime lähemalt tuttavaks saada <em>CSS</em>-i ja <em>Javascript</em>-iga.
+                Tänases praktikumis lõpetame eelmise praktikumi töö -- et tekiks ülevaade kõikidest tehnoloogiastest mis kasutame. Seejärel vaatame kõiki teemasid lähemalt -- valideerime HTML-i, CSS-i, saame lahti Javascripti ja PHP hoiatustest. Proovime MySQL andmebaasiga suhtluse käima saada.<br />
                 Teeme paarisprogrammeerimist. See tähendab, et ühe arvuti taga on 2 tudengit ja kordamööda (~15 minutiliste vahedega) kirjutate koodi.
             </p>
         </div>
@@ -39,11 +30,11 @@
                 <li>
                     Pane <em>HTML</em>-i, <em>CSS</em>-i, <em>Javascript</em>-i ja <em>PHP</em> kõik eraldi failidesse ning vajadusel ka eraldi kataloogi.
                 </li>
-                <li>Saame CSS-ga rohkem tutavamaks: teeme oma lehele CSS-ga animatsiooni!</li>
-                <li>
-                    Mõtle välja ja realiseeri <em>Javascript</em>-iga lihtne mäng <small>(näiteks ussimäng, mingi klikkimise mäng või midagi sellist)</small>.
-                    <br />Alusta millestki väga lihtsast, võimalusel seo <em>CSS</em> animatsioonid <em>Javascript</em>-i mänguga.
-                </li>
+                <li>Veenud, et HTML kood oleks korrektne (aitab <a href="http://validator.w3.org/">HTML validaator</a>).</li>
+                <li>Kontrolli CSS-i korrektsust läbi <a href="http://jigsaw.w3.org/css-validator/">CSS validaatori</a>.</li>
+                <li>Lisa on PHP koodi algusesse <a href="https://duckduckgo.com/?q=php+show+all+errors+warnings&t=ffab&ia=qa">read, mis näitavad välja kõiki vigu ja hoiatusi</a>.</li>
+                <li>Paranda ära ka kõik <em>Javascript</em>-i ja <em>PHP</em> vead ja hoiatused.</li>
+                <li>Hakka <em>MySQL</em> andmebaasi andmeidsalvestama. Funktsionaalsus mõtle ise välja: salvesta IP-aadresse või lase kasutajatel teksti postitada vms.</li>
             </ol>
 
             <?php require('../lisaylesanded.tpl') ?>
