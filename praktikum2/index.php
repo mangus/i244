@@ -14,7 +14,7 @@
         <div class="section">
             <h3>Kirjeldus</h3>
             <p>
-                Tänases praktikumis lõpetame eelmise praktikumi töö -- et tekiks ülevaade kõikidest tehnoloogiastest mis kasutame. Seejärel vaatame kõiki teemasid lähemalt -- valideerime HTML-i, CSS-i, saame lahti Javascripti ja PHP hoiatustest. Proovime MySQL andmebaasiga suhtluse käima saada.<br />
+                Tänases praktikumis lõpetame eelmise praktikumi töö -- et tekiks ülevaade kõikidest tehnoloogiatest mis kasutame. Seejärel vaatame kõiki teemasid lähemalt -- valideerime HTML-i, CSS-i, saame lahti JavaScript-i ja PHP hoiatustest. Proovime MySQL andmebaasiga suhtluse käima saada.<br />
                 Teeme paarisprogrammeerimist. See tähendab, et ühe arvuti taga on 2 tudengit ja kordamööda (~15 minutiliste vahedega) kirjutate koodi.
             </p>
         </div>
@@ -25,16 +25,16 @@
                     Tee lõpuni kõik <a href="../praktikum1/#need">eelmise praktikumi ülesanded</a>.
                 </li>
                 <li>
-                    Veendu, et oled kasutanud <em>HTML</em>-i, <em>CSS</em>-i, <em>Javascript</em>-i, <em>PHP</em>-d, <em>MySQL</em>-i ja <em>Git</em>-i.
+                    Veendu, et oled kasutanud <em>HTML</em>-i, <em>CSS</em>-i, <em>JavaScript</em>-i, <em>PHP</em>-d, <em>MySQL</em>-i ja <em>Git</em>-i.
                 </li>
                 <li>
-                    Pane <em>HTML</em>-i, <em>CSS</em>-i, <em>Javascript</em>-i ja <em>PHP</em> kõik eraldi failidesse ning vajadusel ka eraldi kataloogi.
+                    Pane <em>HTML</em>-i, <em>CSS</em>-i, <em>JavaScript</em>-i ja <em>PHP</em> kõik eraldi failidesse ning vajadusel ka eraldi kataloogi.
                 </li>
-                <li>Veenud, et HTML kood oleks korrektne (aitab <a href="http://validator.w3.org/">HTML validaator</a>).</li>
+                <li>Veendu, et HTML kood oleks korrektne (aitab <a href="http://validator.w3.org/">HTML validaator</a>).</li>
                 <li>Kontrolli CSS-i korrektsust läbi <a href="http://jigsaw.w3.org/css-validator/">CSS validaatori</a>.</li>
                 <li>Lisa on PHP koodi algusesse <a href="https://duckduckgo.com/?q=php+show+all+errors+warnings&t=ffab&ia=qa">read, mis näitavad välja kõiki vigu ja hoiatusi</a>.</li>
-                <li>Paranda ära ka kõik <em>Javascript</em>-i ja <em>PHP</em> vead ja hoiatused.</li>
-                <li>Hakka <em>MySQL</em> andmebaasi andmeidsalvestama. Funktsionaalsus mõtle ise välja: salvesta IP-aadresse või lase kasutajatel teksti postitada vms.</li>
+                <li>Paranda ära ka kõik <em>JavaScript</em>-i ja <em>PHP</em> vead ja hoiatused.</li>
+                <li>Hakka <em>MySQL</em> andmebaasi andmeid salvestama. Funktsionaalsus mõtle ise välja: salvesta IP-aadresse või lase kasutajatel teksti postitada vms.</li>
             </ol>
 
             <?php require('../lisaylesanded.tpl') ?>
