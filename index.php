@@ -82,9 +82,8 @@
 				<div>
 					<span>2. praktikum (04.03.2017) - </span>
 					<span>
-						<a target="_blank" href="praktikum2">Praktikumi leht</a> <!-- /
-						<a target="_blank" href="https://echo360.e-ope.ee/ess/echo/presentation/0a18531e-1020-4e0c-aeef-5c4277694a2d">Salvestus</a>
-						-->
+						<a target="_blank" href="praktikum2">Praktikumi leht</a> 
+						<a target="_blank" href="https://echo360.e-ope.ee/ess/echo/presentation/71119985-a333-44fe-8db6-cf4a93e1be0e?ec">Salvestus</a>
 					</span>
 				</div>
 
