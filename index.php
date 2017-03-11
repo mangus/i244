@@ -356,6 +356,19 @@
 	<div class="divider"></div>
 
 	<div class="section">
+		<h3>Väliseid ressursse</h3>
+		<p>
+			Siin on materjalid, mis tulevad kasuks võrgurakenduste aine omandamisel. Kõik on oodatud seda nimekirja täiendama.
+		</p>
+			<ul class="collection without-border">
+			<li class="collection-item"><a target="_blank" href="https://www.w3schools.com/">W3Schools Online Web Tutorials</a></li>
+			<li class="collection-item">...</li>
+		</ul>
+	</div>
+
+	<div class="divider"></div>
+
+	<div class="section">
 		<blockquote>
 			<h4>Info edasijõudnutele</h4>
 			<p>
