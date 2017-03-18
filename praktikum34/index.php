@@ -6,29 +6,23 @@
     <link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link rel="stylesheet" href="../assets/styles/materialize.min.css">
     <link rel="stylesheet" href="../assets/styles/main.css">
-    <script src="../assets/js/timer.js"></script>
-    <script>
-        var end = new Date('03/19/2017 12:30 PM');
-        var timer = setInterval(function () { showRemaining(end, "countdown"); }, 1000);
-    </script>
 </head>
 <body>
     <div class="page-wrap container">
         <h1 class="main-heading">I244 kolmas ja neljas praktikum</h1>
         <div class="divider"></div>
-        <h2><span id="countdown" class="timer"></span></h2>
-        <div class="divider"></div>
         <div class="section">
             <h3>Kirjeldus</h3>
             <p>
-                Tänases ja homses praktikumis teeme täitsa valmis ühe lihtsama veebirakenduse.
-                Soovitatav on töötada paaris ning teha paarisprogrammeerimist.
+                Tänastes praktikumides teeme täitsa valmis ühe lihtsama veebirakenduse.<br />
+                Töötame paaris ning teeme paarisprogrammeerimist.<br />
+		Kes jõuavad kõik valmis, uurivad lisaks veebirakenduste turvalisust.
             </p>
         </div>
         <div class="section">
             <h2>Ülesanded</h2>
             <ol>
-                <li>Veenduge, et olete ära teinud kõik <a href="http://enos.itcollege.ee/%7Emamangus/i244/praktikum1/#need">esimese praktikumi ülesanded</a>.</li>
+                <li>Veenduge, et olete ära teinud kõik <a href="http://enos.itcollege.ee/%7Emamangus/i244/praktikum2/">esimese praktikumi ülesanded</a>.</li>
                 <li>Vaadake üle, et töö oleks versioonihalduses ja loogiliselt struktureeritud (erinevad teemad eraldi failides ja vajadusel ka kataloogides).</li>
                 <li>
                     Arutlege koos üle, et mis on:
@@ -47,11 +41,13 @@
                     Mõelge välja lihtne rakendus, mille koos valmis teete.<br />
                     Näiteks foorum, pildigalerii, failihoidla, mäng vms. Rakenduse kasutajal peab olema võimalus midagi lehele postitada. Ideaalsel juhul võiks saada lisada ka faile.
                 </li>
-                <li>Võtke uue rakenduse aluseks eelmistes praktikumides tehtud leht ja hakake seda täiendama. Säilitage sealne kasutajate IP-aadresseid salvestav funktsionaalsus.</li>
-                <li>Tehke valmis uue rakenduse HTML struktuur ja vormid.</li>
-                <li>Muutke CSS-i kasutades rakenduse välimus nii viisakaks kui võimalik.</li>
+                <li>Võtke uue rakenduse aluseks eelmistes praktikumides tehtu ja hakake seda täiendama.</li>
+                <li>Tehke valmis vorm/vormid, mille kaudu kasutaja saaks infot serverisse saata.</li>
                 <li>Looge rakenduse tarbeks andmebaasi struktuur.</li>
                 <li>Siduge PHP-d kasutades loodud kasutajaliides ja andmebaas kokku, nii et HTML vormide kaudu saaks andmebaasi infot salvestada.</li>
+                <li>Valideerige kasutajate saadetud infot ning ebasobiva sisestuse korral kuvage kasutajale veateateid.<br />
+                	Valideerimine peab toimima serveris ja toimima ka juhul, kui brauseris on Javascript välja lülitatud.</li>
+                <li>Lihvige oma veebirakendus kasutajasõbralikumaks, kasutades CSS-i ja Javascripti.</li>
                 <li>
                     Näidake oma rakendust eelinfot andmata kaastudengitele.
                     <ul>
@@ -59,6 +55,9 @@
                         <li>Kas lehte on lihtne ja mugav kasutada?</li>
                     </ul>
                     Kasutage kõiki võimalikke vahendeid (CSS, Javascript jne), et eelnevaid punkte parendada.
+		</li>
+                <li>Kui jõudsite kõik eelneva valmis, siis uurige mis on <a href="https://duckduckgo.com/?q=sql+injection&t=ffab&ia=web">SQL-i süstimine</a> ja <a href="">XSS</a>.<br />
+		Kas teie tehtud veebirakenduses on võimalik SQL-i süstida või HTML koodi postitada?</li>
             </ol>
         </div>
         <div class="section">
