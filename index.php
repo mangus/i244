@@ -86,6 +86,12 @@
 						<a target="_blank" href="https://echo360.e-ope.ee/ess/echo/presentation/71119985-a333-44fe-8db6-cf4a93e1be0e?ec">Salvestus</a>
 					</span>
 				</div>
+                                <div>
+                                        <span>3. ja 4. praktikum (19.03.2017) - </span>
+                                        <span>
+                                                <a target="_blank" href="praktikum34">Praktikumi leht</a>
+                                        </span>
+                                </div>
 
 
 			</div>
