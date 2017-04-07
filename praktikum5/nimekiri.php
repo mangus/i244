@@ -13,30 +13,21 @@
     <div class="page-wrap container">
         <h1 class="main-heading">Turvatest</h1>
         <div class="divider"></div>
-        <p>Siin saad saata oma töö turvatestimiseks teistele õpilastele</p>
-        <p>Oma kirjutatud ja töötava lahenduse siia saatmise eest saab 2 lisapunkti.</p>
-        <p>Võib saata nii praktikumides tehtud lehti, kodust projekti kui muud aine raames tehtut. Oluline, et rakendus oleks funktsionaalselt toimiv!</p>
+        <p>
+		Siin saad saata oma töö turvatestimiseks teistele õpilastele.<br />
+        	Oma kirjutatud ja töötava lahenduse siia saatmise eest saab 2 lisapunkti.<br />
+        	Võib saata nii praktikumides tehtud lehti, kodust projekti kui muud aine raames tehtut. Oluline, et rakendus oleks funktsionaalselt toimiv!
+	</p>
         <div class="section">
             <h2>Saada oma töö</h2>
             <form method="POST">
-                <table>
-                    <tr>
-                        <td><h5>Sinu nimi:</h5></td>
-                        <td><input type="text" name="nimi" required /></td>
-                    </tr>
-                    <tr>
-                        <td><h5>Viide töö versioonihaldusele:</h5></td>
-                        <td><input type="url" name="git" required /></td>
-                    </tr>
-                    <tr>
-                        <td><h5>Link töötavale rakendusele:</h5></td>
-                        <td><input type="url" name="link" required /></td>
-                    </tr>
-                    <tr>
-                        <td></td>
-                        <td><input type="submit" value="saada!" class="waves-effect waves-light btn" /></td>
-                    </tr>
-                </table>
+		<div>Sinu nimi:</div>
+		<input type="text" name="nimi" required />
+		<div>Viide töö versioonihaldusele:</div>
+		<input type="url" name="git" required />
+		<div>Link töötavale rakendusele:</div>
+		<input type="url" name="link" required />
+		<input type="submit" value="saada!" class="waves-effect waves-light btn" />
             </form>
         </div>
         <div class="section">
