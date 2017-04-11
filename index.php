@@ -60,16 +60,26 @@
 		<p>&Otilde;ppejõud Mart Mangus / <a href="mailto:mart@mangus.ee">mart@mangus.ee</a></p>
 
 		<div class="row">
-			<div class="col s6">
+			<div class="col s7">
 				<h4>Loengud</h4>
 				<span>1. loeng (11.02.2017) - </span>
 				<span>
-				<a target="_blank" href="http://mart.mangus.ee/loengud/i244-esimene.html">Slaidid</a>
-				<span class="separator"> / </span>
-				<a target="_blank" href="https://echo360.e-ope.ee/ess/echo/presentation/ea445100-a95c-4a50-b0f1-5c166e3b1310">Salvestus</a>
-			</span>
+					<a target="_blank" href="http://mart.mangus.ee/loengud/i244-esimene.html">Slaidid</a>
+					<span class="separator"> / </span>
+					<a target="_blank" href="https://echo360.e-ope.ee/ess/echo/presentation/ea445100-a95c-4a50-b0f1-5c166e3b1310">Salvestus</a>
+				</span><br />
+				<span>2. loeng (08.04.2017) - </span>
+				<span>
+					Slaidid:
+						<a target="_blank" href="https://docs.google.com/presentation/d/1nPcwOqruZqjJxXptX0xp2kO6_KetQ4uxDVWYcCgpq7k/edit?usp=sharing">React</a>,
+						<a target="_blank" href="esitlused/Angular.pptx">Angular</a>,
+						<a target="_blank" href="https://docs.google.com/presentation/d/1uRcno6H_QalY44Lm93IFcTLm0lwwycZbjw3J06RHk8E/edit?usp=sharing">RoR</a>,
+						<a target="_blank" href="http://mart.mangus.ee/loengud/i244-teine/">turvateemad</a>
+					<span class="separator"> / </span>
+					<a target="_blank" href="https://echo360.e-ope.ee/ess/echo/presentation/c5cf4a86-f2d8-43d9-afa5-0cef3c4a2ca6">Salvestus</a>
+				</span>
 			</div>
-			<div class="col s6">
+			<div class="col s5">
 				<h4>Praktikumid</h4>
 
 				<div>
@@ -92,8 +102,13 @@
                                                 <a target="_blank" href="praktikum34">Praktikumi leht</a>
                                         </span>
                                 </div>
-
-
+                                <div>
+                                        <span>5. praktikum (08.04.2017) - </span>
+                                        <span>
+                                                <a target="_blank" href="praktikum5">Praktikumi leht</a> /
+						<a target="_blank" href="https://echo360.e-ope.ee/ess/echo/presentation/c6da96e2-e5ed-441a-80ed-f130c3f3a6af">Salvestus</a>
+                                        </span>
+                                </div>
 			</div>
 		</div>
 
