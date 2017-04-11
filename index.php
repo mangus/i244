@@ -397,6 +397,8 @@
 	<div class="divider"></div>
 
 	<div class="section">
+
+		<!-- Ei ole see aasta enam aktuaalne...
 		<blockquote>
 			<h4>Info edasijõudnutele</h4>
 			<p>
@@ -407,6 +409,8 @@
 				Selle võimaluse kasutamiseks tuleb teema õppejõuga kooskõlastada hiljemalt 1. aprilliks.
 			</p>
 		</blockquote>
+		-->
+
 		<blockquote>
 			<h4>Jututuba</h4>
 			<p>
