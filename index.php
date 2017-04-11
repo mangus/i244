@@ -383,6 +383,13 @@
 		</p>
 			<ul class="collection without-border">
 			<li class="collection-item"><a target="_blank" href="https://www.w3schools.com/">W3Schools Online Web Tutorials</a></li>
+			<li class="collection-item"><a target="_blank" href="https://www.codecademy.com/courses/learn-html-css">Code academy: Learn HTML and CSS</a></li>
+			<li class="collection-item"><a target="_blank" href="https://www.codecademy.com/learn/web">Code academy: HTML and CSS</a></li>
+			<li class="collection-item"><a target="_blank" href="https://www.codecademy.com/learn/learn-javascript">Code academy: Learn JavaScript</a></li>
+			<li class="collection-item"><a target="_blank" href="https://www.codecademy.com/learn/javascript">Code academy: JavaScript</a></li>
+			<li class="collection-item"><a target="_blank" href="https://www.codecademy.com/learn/jquery">Code academy: jQuery</a></li>
+			<li class="collection-item"><a target="_blank" href="https://www.codecademy.com/learn/php">Code academy: PHP</a></li>
+			<li class="collection-item"><a target="_blank" href="https://www.codecademy.com/learn/learn-sql">Code academy: Learn SQL</a></li>
 			<li class="collection-item">...</li>
 		</ul>
 	</div>
