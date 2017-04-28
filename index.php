@@ -341,10 +341,10 @@
 		<h3>Kodune projekt</h3>
 		<p>Kodune projekt koosneb kahest osast:</p>
 		<ol>
-			<li>Sinu enda projekt, esitamise tähtaeg 29.05.2017 23:59;</li>
+			<li>Sinu enda projekt, esitamise tähtaeg 29.05.2017 23:59</li>
 			<li>Kolm projekti retsensiooni (30.05.2017 saadab õppejõud retsenseeritavad tööd), esitamise tähtaeg
 				04.06.2017
-				23:59.
+				23:59
 			</li>
 		</ol>
 		<p>Ehk kodust projekti ei ole vaja klassis kaitsta, aga see-eest on vaja retsenseerida kolme t&ouml;&ouml;d.</p>
