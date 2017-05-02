@@ -341,21 +341,21 @@
 		<h3>Kodune projekt</h3>
 		<p>Kodune projekt koosneb kahest osast:</p>
 		<ol>
-			<li>Sinu enda projekt, esitamise tähtaeg 29.05.2017 23:59;</li>
+			<li>Sinu enda projekt, esitamise tähtaeg 29.05.2017 23:59</li>
 			<li>Kolm projekti retsensiooni (30.05.2017 saadab õppejõud retsenseeritavad tööd), esitamise tähtaeg
 				04.06.2017
-				23:59.
+				23:59
 			</li>
 		</ol>
 		<p>Ehk kodust projekti ei ole vaja klassis kaitsta, aga see-eest on vaja retsenseerida kolme t&ouml;&ouml;d.</p>
 		<ul class="collection with-header">
 <h5>Olulised punktid on:</h5>
-			<li class="collection-item">Kood versioonihalduses juba projekti alguses,</li>
-			<li class="collection-item">Töötav demorakendus avalikult ligipääsetav,</li>
-			<li class="collection-item">Andmebaasi kasutamine,</li>
-			<li class="collection-item">HTML-i, CSS-i ja Javascripti kasutamine kasutajaliideses,</li>
-			<li class="collection-item">Rakenduse turvalisus,</li>
-			<li class="collection-item">Koodide vastamine standarditele (HTML validaator jne).</li>
+			<li class="collection-item">Kood versioonihalduses juba projekti alguses</li>
+			<li class="collection-item">Töötav demorakendus avalikult ligipääsetav</li>
+			<li class="collection-item">Andmebaasi kasutamine</li>
+			<li class="collection-item">HTML-i, CSS-i ja Javascripti kasutamine kasutajaliideses</li>
+			<li class="collection-item">Rakenduse turvalisus</li>
+			<li class="collection-item">Koodide vastamine standarditele (HTML validaator jne)</li>
 		</ul>
 		<!-- <p><a href="projekt/esitamine.php">Koduse projekti esitamise vorm</a></p> -->
 	</div>
