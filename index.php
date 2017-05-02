@@ -121,7 +121,7 @@
 		<h5>Iganädalased kodused tööd</h5>
 		<p>
 			Iga nädal tuleb iseseisvalt läbi töötada välja toodud teemad ning tehtud töö kohta saata aruanne. <br/><a
-				target="_blank" href="http://goo.gl/forms/SZ5ngxlN4m">Aruande saatmise vorm</a>
+				target="_blank" href="http://goo.gl/forms/SZ5ngxlN4m"><h3>Aruande saatmise vorm</h3></a>
 		</p>
 		<p>
 			Iga (korrektne) aruanne annab 2 punkti ja kokku moodustavad need aruanded 30% aine tulemusest.
