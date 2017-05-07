@@ -371,6 +371,10 @@
 			Eksam moodustab 40% aine hindest. Eksami läbimisel on lävend, ehk alla 50%-se tulemusega ei ole võimalik
 			ainet
 			läbida.
+		</p>		
+		<h5>Ettevalmistamine eksamiks</h5>
+		<p>
+			<a target="_blank" href="https://github.com/mangus/i244/tree/master/eksam">Siin asuvad</a> eelmise aasta eksami ülesanded.
 		</p>
 	</div>
 
