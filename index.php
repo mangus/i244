@@ -322,6 +322,8 @@
 					<a target="_blank" href="http://enos.itcollege.ee/~ttanav/VRI/Praktikumid/prax14/ylesanne.html">praktikum</a>
 					<span class="separator"> | </span>
 					<a target="_blank" href="http://enos.itcollege.ee/~ttanav/VRI/Kodused/14/ylesanne.html">ülesanne</a>
+					<span class="separator"> | </span>
+					<a target="_blank" href="https://bitbucket.org/ttanav/praktikumid-kodused/src/2c1925d3b76e2a955144c9546ea11c18607a96de/kodused/14/tut/?at=master">pildid</a>
 				</td>
 				<td>21.05.2017 23:59</td>
 				<td><span id="countdown_14"></span></td>
