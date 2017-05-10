@@ -133,9 +133,9 @@
 		<colgroup>
 			<col width="3%">
 			<col width="30%">
-			<col width="26%">
+			<col width="33%">
 			<col width="17%">
-			<col width="24%">
+			<col width="17%">
 		</colgroup>
 			<tr>
 				<th>Nr</th>
@@ -148,6 +148,8 @@
 				<td>1</td>
 				<td>Sissejuhatus HTML-i</td>
 				<td>
+					<a target="_blank" href="http://enos.itcollege.ee/~ttanav/VRI/Loengud/loeng01.pdf">pdf</a>
+					<span class="separator"> | </span>	
 					<a target="_blank" href="https://echo360.e-ope.ee/ess/echo/presentation/7e9c8258-3664-4b9e-b487-dfbae7c5dcf9?ec=true">loeng</a>
 					<span class="separator"> | </span>
 					<a target="_blank" href="http://enos.itcollege.ee/~ttanav/VRI/Praktikumid/prax01/ylesanne.html">praktikum</a>
@@ -161,6 +163,8 @@
 				<td>2</td>
 				<td>HTML-i keerukamad osad</td>
 				<td>
+					<a target="_blank" href="http://enos.itcollege.ee/~ttanav/VRI/Loengud/loeng02.pdf">pdf</a>
+					<span class="separator"> | </span>				
 					<a target="_blank" href="https://echo360.e-ope.ee/ess/echo/presentation/bdbe400c-1d81-4e59-bf28-32dccc26af78?ec=true">loeng</a>
 					<span class="separator"> | </span>
 					<a target="_blank" href="http://enos.itcollege.ee/~ttanav/VRI/Praktikumid/prax02/ylesanne.html">praktikum</a>
@@ -174,6 +178,8 @@
 				<td>3</td>
 				<td>CSS sissejuhatus</td>
 				<td>
+					<a target="_blank" href="http://enos.itcollege.ee/~ttanav/VRI/Loengud/loeng03.pdf">pdf</a>
+					<span class="separator"> | </span>				
 					<a target="_blank" href="https://echo360.e-ope.ee/ess/echo/presentation/8d99fbf2-3cb1-4004-9cda-15104397c27b?ec=true">loeng</a>
 					<span class="separator"> | </span>
 					<a target="_blank" href="http://enos.itcollege.ee/~ttanav/VRI/Praktikumid/prax03/ylesanne.html">praktikum</a>
@@ -187,6 +193,8 @@
 				<td>4</td>
 				<td>Kujundus ja paigutus</td>
 				<td>
+					<a target="_blank" href="http://enos.itcollege.ee/~ttanav/VRI/Loengud/loeng04.pdf">pdf</a>
+					<span class="separator"> | </span>
 					<a target="_blank" href="https://echo360.e-ope.ee/ess/echo/presentation/c2503f9e-bf75-4f32-ad8f-7e9816ca75dd?ec=true">loeng</a>
 					<span class="separator"> | </span>
 					<a target="_blank" href="http://enos.itcollege.ee/~ttanav/VRI/Praktikumid/prax04/ylesanne.html">praktikum</a>
@@ -200,6 +208,8 @@
 				<td>5</td>
 				<td>Javascript</td>
 				<td>
+					<a target="_blank" href="http://enos.itcollege.ee/~ttanav/VRI/Loengud/loeng05.pdf">pdf</a>
+					<span class="separator"> | </span>
 					<a target="_blank" href="https://echo360.e-ope.ee/ess/echo/presentation/74f2fadf-f5c5-4747-83cb-784046ecd33e">loeng</a>
 					<span class="separator"> | </span>
 					<a target="_blank" href="http://enos.itcollege.ee/~ttanav/VRI/Praktikumid/prax05/ylesanne.html">praktikum</a>
@@ -213,6 +223,8 @@
 				<td>6</td>
 				<td>jQuery</td>
 				<td>
+					<a target="_blank" href="http://enos.itcollege.ee/~ttanav/VRI/Loengud/loeng06.pdf">pdf</a>
+					<span class="separator"> | </span>
 					<a target="_blank" href="https://echo360.e-ope.ee/ess/echo/presentation/f1b93c7b-97af-4f69-a3e5-29f1b036ba6f">loeng</a>
 					<span class="separator"> | </span>
 					<a target="_blank" href="http://enos.itcollege.ee/~ttanav/VRI/Praktikumid/prax06/ylesanne.html">praktikum</a>
@@ -226,6 +238,8 @@
 				<td>7</td>
 				<td>PHP sissejuhatus</td>
 				<td>
+					<a target="_blank" href="http://enos.itcollege.ee/~ttanav/VRI/Loengud/loeng07.pdf">pdf</a>
+					<span class="separator"> | </span>
 					<a target="_blank" href="https://echo360.e-ope.ee/ess/echo/presentation/b10bbe40-daf0-4110-b172-20c344176c52">loeng</a>
 					<span class="separator"> | </span>
 					<a target="_blank" href="http://enos.itcollege.ee/~ttanav/VRI/Praktikumid/prax07/ylesanne.html">praktikum</a>
@@ -239,6 +253,8 @@
 				<td>8</td>
 				<td>Andmeside (GET ja POST)</td>
 				<td>
+					<a target="_blank" href="http://enos.itcollege.ee/~ttanav/VRI/Loengud/loeng08.pdf">pdf</a>
+					<span class="separator"> | </span>
 					<a target="_blank" href="https://echo360.e-ope.ee/ess/echo/presentation/b654af75-5831-413e-bc1d-b8372f0fc724">loeng</a>
 					<span class="separator"> | </span>
 					<a target="_blank" href="http://enos.itcollege.ee/~ttanav/VRI/Praktikumid/prax08/ylesanne.html">praktikum</a>
@@ -252,6 +268,8 @@
 				<td>9</td>
 				<td>MVC</td>
 				<td>
+					<a target="_blank" href="http://enos.itcollege.ee/~ttanav/VRI/Loengud/loeng09.pdf">pdf</a>
+					<span class="separator"> | </span>
 					<a target="_blank" href="https://echo360.e-ope.ee/ess/echo/presentation/48a8bc31-1e75-45cc-953b-6d97ed312ffa">loeng</a>
 					<span class="separator"> | </span>
 					<a target="_blank" href="http://enos.itcollege.ee/~ttanav/VRI/Praktikumid/prax09/ylesanne.html">praktikum</a>
@@ -265,6 +283,8 @@
 				<td>10</td>
 				<td>Autentimine, küpsised, sessioonid</td>
 				<td>
+					<a target="_blank" href="http://enos.itcollege.ee/~ttanav/VRI/Loengud/loeng10.pdf">pdf</a>
+					<span class="separator"> | </span>
 					<a target="_blank" href="https://echo360.e-ope.ee/ess/echo/presentation/4e19d63a-ccb2-46c1-b782-e3fa55542488">loeng</a>
 					<span class="separator"> | </span>
 					<a target="_blank" href="http://enos.itcollege.ee/~ttanav/VRI/Praktikumid/prax10/ylesanne.html">praktikum</a>
@@ -278,6 +298,8 @@
 				<td>11</td>
 				<td>MySQL</td>
 				<td>
+					<a target="_blank" href="http://enos.itcollege.ee/~ttanav/VRI/Loengud/loeng11.pdf">pdf</a>
+					<span class="separator"> | </span>
 					<a target="_blank" href="https://echo360.e-ope.ee/ess/echo/presentation/81b6ba94-d5ca-4506-bea4-728b3164d902?ec=true">loeng</a>
 					<span class="separator"> | </span>
 					<a target="_blank" href="http://enos.itcollege.ee/~ttanav/VRI/Praktikumid/prax11/ylesanne.html">praktikum</a>
@@ -291,6 +313,8 @@
 				<td>12</td>
 				<td>MySQL + PHP</td>
 				<td>
+					<a target="_blank" href="http://enos.itcollege.ee/~ttanav/VRI/Loengud/loeng12.pdf">pdf</a>
+					<span class="separator"> | </span>
 					<a target="_blank" href="https://echo360.e-ope.ee/ess/echo/presentation/01a81925-3d5c-4e8f-b040-55cdecbfd25a?ec=true">loeng</a>
 					<span class="separator"> | </span>
 					<a target="_blank" href="http://enos.itcollege.ee/~ttanav/VRI/Praktikumid/prax12/ylesanne.html">praktikum</a>
@@ -304,6 +328,8 @@
 				<td>13</td>
 				<td>MySQL + PHP (vol 2)</td>
 				<td>
+					<a target="_blank" href="http://enos.itcollege.ee/~ttanav/VRI/Loengud/loeng13.pdf">pdf</a>
+					<span class="separator"> | </span>
 					<a target="_blank" href="https://echo360.e-ope.ee/ess/echo/presentation/16b69ed9-a630-41a3-a24b-1f1373811f46?ec=true">loeng</a>
 					<span class="separator"> | </span>
 					<a target="_blank" href="http://enos.itcollege.ee/~ttanav/VRI/Praktikumid/prax13/ylesanne.html">praktikum</a>
@@ -317,6 +343,8 @@
 				<td>14</td>
 				<td>Turvalisus</td>
 				<td>
+					<a target="_blank" href="http://enos.itcollege.ee/~ttanav/VRI/Loengud/loeng14.pdf">pdf</a>
+					<span class="separator"> | </span>
 					<a target="_blank" href="https://echo360.e-ope.ee/ess/echo/presentation/3e069ed7-b3d9-4656-91ba-0209bb203686?ec=true">loeng</a>
 					<span class="separator"> | </span>
 					<a target="_blank" href="http://enos.itcollege.ee/~ttanav/VRI/Praktikumid/prax14/ylesanne.html">praktikum</a>
