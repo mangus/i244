@@ -426,6 +426,7 @@
 			<li class="collection-item"><a target="_blank" href="https://www.codecademy.com/learn/learn-sql">Code academy: Learn SQL</a></li>
 			<li class="collection-item"><a target="_blank" href="http://www.ebooksbucket.com/uploads/itprogramming/javascript/Learning_PHP_MySQL_Javascript_CSS_HTML5__Robin_Nixon_3e.pdf">Raamat: Learning PHP, MySQL, JavaScript, CSS and HTML5</a></li>
 			<li class="collection-item"><a target="_blank" href="http://enos.itcollege.ee/~ttanav/VRI/abiks/">HTML, CSS, JavaScript, jQuery, PHP ja MySQL-i lühiõpetused</a></li>
+			<li class="collection-item"><a target="_blank" href="http://tahvel.info/books/javascript.html">JavaScript edasijõudnutele</a></li>	
 			<li class="collection-item">...</li>
 		</ul>
 	</div>
