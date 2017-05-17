@@ -389,7 +389,7 @@
 			<li class="collection-item">Rakenduse turvalisus</li>
 			<li class="collection-item">Koodide vastamine standarditele (HTML validaator jne)</li>
 		</ul>
-		<!-- <p><a href="projekt/esitamine.php">Koduse projekti esitamise vorm</a></p> -->
+		<p><a href="projekt/esitamine.php">Koduse projekti esitamise vorm.</a></p>
 	</div>
 
 	<div class="divider"></div>

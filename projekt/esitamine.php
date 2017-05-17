@@ -15,7 +15,7 @@
     $p->add($_POST);
     
     echo "<h1>Töö esitaud, aitäh!</h1>";
-    echo "<p>02.06.2016 peaks Su e-postile tulema retsenseeritavate tööde viited.</p>";
+    echo "<p>30.05.2017 peaks Su e-postile tulema retsenseeritavate tööde viited.</p>";
 
   else:
 
