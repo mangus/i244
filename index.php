@@ -347,6 +347,8 @@
 					<span class="separator"> | </span>
 					<a target="_blank" href="https://echo360.e-ope.ee/ess/echo/presentation/3e069ed7-b3d9-4656-91ba-0209bb203686?ec=true">loeng</a>
 					<span class="separator"> | </span>
+					<a target="_blank" href="https://echo360.e-ope.ee/ess/echo/presentation/15c43e25-16da-4aa1-b5ea-17d89cdcffae?ec=true">loeng heliga</a>
+					<span class="separator"> | </span>
 					<a target="_blank" href="http://enos.itcollege.ee/~ttanav/VRI/Praktikumid/prax14/ylesanne.html">praktikum</a>
 					<span class="separator"> | </span>
 					<a target="_blank" href="http://enos.itcollege.ee/~ttanav/VRI/Kodused/14/ylesanne.html">ülesanne</a>
