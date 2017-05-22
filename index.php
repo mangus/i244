@@ -24,6 +24,7 @@
 		var end_13 = new Date('05/14/2017 11:59 PM');
 		var end_14 = new Date('05/21/2017 11:59 PM');
 		var end_15 = new Date('05/28/2017 11:59 PM');
+                var end_16 = new Date('05/29/2017 11:59 PM');
 		var timer_1 = setInterval(function () { showRemaining(end_1, "countdown_1", timer_1); }, 1000);
 		var timer_2 = setInterval(function () { showRemaining(end_2, "countdown_2", timer_2); }, 1000);
 		var timer_3 = setInterval(function () { showRemaining(end_3, "countdown_3", timer_3); }, 1000);
@@ -39,6 +40,7 @@
 		var timer_13 = setInterval(function () { showRemaining(end_13, "countdown_13", timer_13); }, 1000);
 		var timer_14 = setInterval(function () { showRemaining(end_14, "countdown_14", timer_14); }, 1000);
 		var timer_15 = setInterval(function () { showRemaining(end_15, "countdown_15", timer_15); }, 1000);
+                var timer_16 = setInterval(function () { showRemaining(end_16, "countdown_16", timer_16); }, 1000);	
 	</script>
 </head>
 <body>
@@ -371,6 +373,7 @@
 
 	<div class="section">
 		<h3>Kodune projekt</h3>
+                <h3>Jäänud: <span id="countdown_16"></span></h3>
 		<p>Kodune projekt koosneb kahest osast:</p>
 		<ol>
 			<li>Sinu enda projekt, esitamise tähtaeg 29.05.2017 23:59</li>
