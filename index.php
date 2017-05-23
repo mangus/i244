@@ -25,6 +25,9 @@
 		var end_14 = new Date('05/21/2017 11:59 PM');
 		var end_15 = new Date('05/28/2017 11:59 PM');
                 var end_16 = new Date('05/29/2017 11:59 PM');
+		var end_17 = new Date('06/04/2017 11:00 AM');
+		var end_18 = new Date('06/04/2017 3:00 PM');
+		var end_19 = new Date('06/04/2017 5:00 PM');		
 		var timer_1 = setInterval(function () { showRemaining(end_1, "countdown_1", timer_1); }, 1000);
 		var timer_2 = setInterval(function () { showRemaining(end_2, "countdown_2", timer_2); }, 1000);
 		var timer_3 = setInterval(function () { showRemaining(end_3, "countdown_3", timer_3); }, 1000);
@@ -40,7 +43,10 @@
 		var timer_13 = setInterval(function () { showRemaining(end_13, "countdown_13", timer_13); }, 1000);
 		var timer_14 = setInterval(function () { showRemaining(end_14, "countdown_14", timer_14); }, 1000);
 		var timer_15 = setInterval(function () { showRemaining(end_15, "countdown_15", timer_15); }, 1000);
-                var timer_16 = setInterval(function () { showRemaining(end_16, "countdown_16", timer_16); }, 1000);	
+                var timer_16 = setInterval(function () { showRemaining(end_16, "countdown_16", timer_16); }, 1000);
+		var timer_17 = setInterval(function () { showRemaining(end_17, "countdown_17", timer_17); }, 1000);
+		var timer_18 = setInterval(function () { showRemaining(end_18, "countdown_18", timer_18); }, 1000);
+		var timer_19 = setInterval(function () { showRemaining(end_19, "countdown_19", timer_19); }, 1000);		
 	</script>
 </head>
 <body>
@@ -406,8 +412,46 @@
 			Eksam moodustab 40% aine hindest. Eksami läbimisel on lävend, ehk alla 50%-se tulemusega ei ole võimalik
 			ainet
 			läbida.
-		</p>		
-		<h5>Ettevalmistamine eksamiks</h5>
+		</p>
+		<h4>Eksami ajad</h4>
+		<table class="striped" style="table-layout:fixed;">		
+		<colgroup>
+			<col width="18%">
+			<col width="18%">
+			<col width="18%">
+			<col width="18%">
+			<col width="28%">
+		</colgroup>
+			<tr>
+				<th>Kuupäev</th>
+				<th>Aeg</th>
+				<th>Ruum</th>
+				<th>Vooru jaotus</th>
+				<th>Jäänud</th>
+			</tr>
+			<tr>
+				<td>04.06.2017</td>
+				<td>11:00-12:30</td>
+				<td>319 | 317</td>
+				<td>AK11 | DK11</td>
+				<td><span id="countdown_17"></span></td>
+			</tr>
+			<tr>
+				<td>04.06.2017</td>
+				<td>15:00-16:30</td>
+				<td>319 | 317</td>
+				<td>DK12 | DK13</td>
+				<td><span id="countdown_18"></span></td>
+			</tr>
+			<tr>
+				<td>04.06.2017</td>
+				<td>17:00-18:30</td>
+				<td>317</td>
+				<td>DK14</td>
+				<td><span id="countdown_19"></span></td>
+			</tr>			
+		</table>				
+		<h4>Ettevalmistamine eksamiks</h4>
 		<p>
 			<a target="_blank" href="https://github.com/mangus/i244/tree/master/eksam">Siin asuvad</a> eelmise aasta eksami ülesanded.
 		</p>
