@@ -214,7 +214,7 @@
 			</tr>
 			<tr>
 				<td>5</td>
-				<td>Javascript</td>
+				<td>JavaScript</td>
 				<td>
 					<a target="_blank" href="http://enos.itcollege.ee/~ttanav/VRI/Loengud/loeng05.pdf">pdf</a>
 					<span class="separator"> | </span>
@@ -394,7 +394,7 @@
 			<li class="collection-item">Kood versioonihalduses juba projekti alguses</li>
 			<li class="collection-item">Töötav demorakendus avalikult ligipääsetav</li>
 			<li class="collection-item">Andmebaasi kasutamine</li>
-			<li class="collection-item">HTML-i, CSS-i ja Javascripti kasutamine kasutajaliideses</li>
+			<li class="collection-item">HTML-i, CSS-i ja JavaScript-i kasutamine kasutajaliideses</li>
 			<li class="collection-item">Rakenduse turvalisus</li>
 			<li class="collection-item">Koodide vastamine standarditele (HTML validaator jne)</li>
 		</ul>
@@ -406,9 +406,9 @@
 		<h3>Eksam</h3>
 		<p>
 			Eksamil tuleb iseseisvalt lahendada praktiline ülesanne. Selleks on vaja osata kasutada HTML-i, CSS-i,
-			Javascript-i,
+			JavaScript-i,
 			MySQL-i ja PHP-d.<br/>
-			Tulemuste esitamine käib läbi versioonihalduse (git), nii et selle kasutamise oskus on hädavajalik.<br/>
+			Tulemuste esitamine käib läbi versioonihalduse (Git), nii et selle kasutamise oskus on hädavajalik.<br/>
 			Eksam moodustab 40% aine hindest. Eksami läbimisel on lävend, ehk alla 50%-se tulemusega ei ole võimalik
 			ainet
 			läbida.
