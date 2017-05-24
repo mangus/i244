@@ -29,7 +29,7 @@
                     <ul>
                         <li>HTML,</li>
                         <li>CSS,</li>
-                        <li>Javascript,</li>
+                        <li>JavaScript,</li>
                         <li>PHP,</li>
                         <li>andmebaasi struktuur,</li>
                         <li>andmebaasi päringud,</li>
@@ -46,15 +46,15 @@
                 <li>Looge rakenduse tarbeks andmebaasi struktuur.</li>
                 <li>Siduge PHP-d kasutades loodud kasutajaliides ja andmebaas kokku, nii et HTML vormide kaudu saaks andmebaasi infot salvestada.</li>
                 <li>Valideerige kasutajate saadetud infot ning ebasobiva sisestuse korral kuvage kasutajale veateateid.<br />
-                	Valideerimine peab toimima serveris ja toimima ka juhul, kui brauseris on Javascript välja lülitatud.</li>
-                <li>Lihvige oma veebirakendus kasutajasõbralikumaks, kasutades CSS-i ja Javascripti.</li>
+                	Valideerimine peab toimima serveris ja toimima ka juhul, kui brauseris on JavaScript välja lülitatud.</li>
+                <li>Lihvige oma veebirakendus kasutajasõbralikumaks, kasutades CSS-i ja JavaScript-i.</li>
                 <li>
                     Näidake oma rakendust eelinfot andmata kaastudengitele.
                     <ul>
                         <li>Kas rakenduse kasutajaliidesest on intuitiivselt aru saada, mis rakendusega on tegu ja kuidas seda kasutada?</li>
                         <li>Kas lehte on lihtne ja mugav kasutada?</li>
                     </ul>
-                    Kasutage kõiki võimalikke vahendeid (CSS, Javascript jne), et eelnevaid punkte parendada.
+                    Kasutage kõiki võimalikke vahendeid (CSS, JavaScript jne), et eelnevaid punkte parendada.
 		</li>
                 <li>Kui jõudsite kõik eelneva valmis, siis uurige mis on <a href="https://duckduckgo.com/?q=sql+injection&t=ffab&ia=web">SQL-i süstimine</a> ja <a href="">XSS</a>.<br />
 		Kas teie tehtud veebirakenduses on võimalik SQL-i süstida või HTML koodi postitada?</li>
