@@ -31,7 +31,7 @@
         <div class="section">
             <h3>Abimaterjalid</h3>
             <p>
-                Kuidas kooli serveri (enos) failidele ja MySQL andmebaasile ligipääseda?
+                Kuidas kooli serveri (enos) failidele ja MySQL andmebaasile ligi pääseda?
                 <a href="https://moodle.hitsa.ee/mod/page/view.php?id=430425">Tutorial</a>
             </p>
         </div>
@@ -48,14 +48,14 @@
                     Lisa lehele <em>CSS</em> fail ja muuda loodud lehekülg ilusamaks.
                 </li>
                 <li>
-                    Võta kasutsele <em>PHP</em>. Muuda <em>HTML</em> fail <em>PHP</em> failiks ning pane see kuvama serveris kasutatavat <em>PHP</em> versiooni (näiteks läbi <a href="http://php.net/manual/en/function.phpversion.php">phpversion()</a> meetodi).
+                    Võta kasutusele <em>PHP</em>. Muuda <em>HTML</em> fail <em>PHP</em> failiks ning pane see kuvama serveris kasutatavat <em>PHP</em> versiooni (näiteks läbi <a href="http://php.net/manual/en/function.phpversion.php">phpversion()</a> meetodi).
                 </li>
                 <li>
                     Logi sisse <em>MySQL</em> serverisse ja loo seal üks lihtne tabel.
                 </li>
                 <li style="text-decoration: underline">Pane kogu oma kirjutatud kood versioonihaldusesse. (Väga oluline punkt!)</li>
                 <li>
-                    Tee lehele midagi huvitavat kasutades <em>Javascript</em>-i. Näiteks tee kell, mis loendab, mitu sekundit on praktikumi lõpuni vms :)
+                    Tee lehele midagi huvitavat kasutades <em>JavaScript</em>-i. Näiteks tee kell, mis loendab, mitu sekundit on praktikumi lõpuni vms :)
                 </li>
             </ol>
 
