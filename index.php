@@ -486,6 +486,7 @@
 			<li class="collection-item"><a target="_blank" href="http://enos.itcollege.ee/~ttanav/VRI/loengus_tegime/">Tiia Tänava "Võrgurakendused I" loengus tehtud ülesanded</a></li>
 			<li class="collection-item"><a target="_blank" href="http://tahvel.info/books/javascript.html">JavaScript edasijõudnutele</a></li>
 			<li class="collection-item"><a target="_blank" href="https://www.w3schools.com/sql/trysql.asp?filename=trysql_select_all">SQL harjutamise keskkond</a></li>
+			<li class="collection-item"><a target="_blank" href="http://www.seabreezecomputers.com/tips/mobile-css.htm">Veebirakenduse optimeerimine mobiilile</a></li>
 			<li class="collection-item">...</li>
 		</ul>
 	</div>
