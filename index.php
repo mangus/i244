@@ -66,7 +66,8 @@
 	<div class="section">
 		<h3>Auditoorne õppetöö</h3>
 		<p>&Otilde;ppejõud Mart Mangus / <a href="mailto:mart@mangus.ee">mart@mangus.ee</a></p>
-
+		<p>Konsultatsioon: 07.06.2017 12:00-14:00 ruum 319</p>
+		
 		<div class="row">
 			<div class="col s7">
 				<h4>Loengud</h4>
@@ -122,6 +123,69 @@
 
 	</div>
 
+	<div class="divider"></div>
+
+	<div class="section">
+		<h3>Eksam</h3>
+		<p>
+			Eksamil tuleb iseseisvalt lahendada praktiline ülesanne. Selleks on vaja osata kasutada HTML-i, CSS-i,
+			JavaScript-i,
+			MySQL-i ja PHP-d.<br/>
+			Tulemuste esitamine käib läbi versioonihalduse (Git), nii et selle kasutamise oskus on hädavajalik.<br/>
+			Eksam moodustab 40% aine hindest. Eksami läbimisel on lävend, ehk alla 50%-se tulemusega ei ole võimalik
+			ainet
+			läbida.
+		</p>
+		<h4>Eksami ajad</h4>
+		<table class="striped" style="table-layout:fixed;">		
+		<colgroup>
+			<col width="18%">
+			<col width="18%">
+			<col width="18%">
+			<col width="18%">
+			<col width="28%">
+		</colgroup>
+			<tr>
+				<th>Kuupäev</th>
+				<th>Aeg</th>
+				<th>Ruum</th>
+				<th>Vooru jaotus</th>
+				<th>Jäänud</th>
+			</tr>
+			<tr>
+				<td>04.06.2017</td>
+				<td>11:00-12:30</td>
+				<td>319 | 317</td>
+				<td>AK11 | DK11</td>
+				<td><span id="countdown_17"></span></td>
+			</tr>
+			<tr>
+				<td>04.06.2017</td>
+				<td>15:00-16:30</td>
+				<td>319 | 317</td>
+				<td>DK12 | DK13</td>
+				<td><span id="countdown_18"></span></td>
+			</tr>
+			<tr>
+				<td>04.06.2017</td>
+				<td>17:00-18:30</td>
+				<td>317</td>
+				<td>DK14</td>
+				<td><span id="countdown_19"></span></td>
+			</tr>			
+		</table>
+
+		<h3>Järeleksamid</h3>
+		
+		<p><h4>Järeleksamile on vaja kindlasti registreeruda õppeosakonnas!</h4></p>
+		<p>Esimene järeleksam on 10. juunil kell 12:00 317 klassis.</p>
+		
+		<h4>Ettevalmistamine eksamiks</h4>
+		<p>
+			<a target="_blank" href="https://github.com/mangus/i244/tree/master/eksam">Siin asuvad</a> eelmise aasta eksami ülesanded.
+		</p>
+	</div>
+	
 	<div class="divider"></div>
 
 	<div class="section">
@@ -403,63 +467,7 @@
 
 	<div class="divider"></div>
 	<div class="section">
-		<h3>Eksam</h3>
-		<p>
-			Eksamil tuleb iseseisvalt lahendada praktiline ülesanne. Selleks on vaja osata kasutada HTML-i, CSS-i,
-			JavaScript-i,
-			MySQL-i ja PHP-d.<br/>
-			Tulemuste esitamine käib läbi versioonihalduse (Git), nii et selle kasutamise oskus on hädavajalik.<br/>
-			Eksam moodustab 40% aine hindest. Eksami läbimisel on lävend, ehk alla 50%-se tulemusega ei ole võimalik
-			ainet
-			läbida.
-		</p>
-		<h4>Eksami ajad</h4>
-		<table class="striped" style="table-layout:fixed;">		
-		<colgroup>
-			<col width="18%">
-			<col width="18%">
-			<col width="18%">
-			<col width="18%">
-			<col width="28%">
-		</colgroup>
-			<tr>
-				<th>Kuupäev</th>
-				<th>Aeg</th>
-				<th>Ruum</th>
-				<th>Vooru jaotus</th>
-				<th>Jäänud</th>
-			</tr>
-			<tr>
-				<td>04.06.2017</td>
-				<td>11:00-12:30</td>
-				<td>319 | 317</td>
-				<td>AK11 | DK11</td>
-				<td><span id="countdown_17"></span></td>
-			</tr>
-			<tr>
-				<td>04.06.2017</td>
-				<td>15:00-16:30</td>
-				<td>319 | 317</td>
-				<td>DK12 | DK13</td>
-				<td><span id="countdown_18"></span></td>
-			</tr>
-			<tr>
-				<td>04.06.2017</td>
-				<td>17:00-18:30</td>
-				<td>317</td>
-				<td>DK14</td>
-				<td><span id="countdown_19"></span></td>
-			</tr>			
-		</table>				
-		<h4>Ettevalmistamine eksamiks</h4>
-		<p>
-			<a target="_blank" href="https://github.com/mangus/i244/tree/master/eksam">Siin asuvad</a> eelmise aasta eksami ülesanded.
-		</p>
-	</div>
 
-	<div class="divider"></div>
-
-	<div class="section">
 		<h3>Väliseid ressursse</h3>
 		<p>
 			Siin on materjalid, mis tulevad kasuks võrgurakenduste aine omandamisel. Kõik on oodatud seda nimekirja täiendama.
