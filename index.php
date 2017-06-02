@@ -493,6 +493,20 @@
 	</div>
 
 	<div class="divider"></div>
+	
+	<div class="section">
+
+		<h3>Kasutatav tarkvara</h3>
+		<p>
+			Kõik on oodatud seda nimekirja täiendama!
+		</p>
+			<ul class="collection without-border">
+			<li class="collection-item"><a target="_blank" href="https://notepad-plus-plus.org/">Notepad++ on tasuta koodiredaktor (Windows)</a></li>
+			<li class="collection-item"><a target="_blank" href="https://cyberduck.io/?l=en">Cyberduck: tasuta ja lihtne FTP klient (Windows/Mac)</a></li>
+		</ul>
+	</div>
+
+	<div class="divider"></div>		
 
 	<div class="section">
 
