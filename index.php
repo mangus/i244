@@ -124,6 +124,12 @@
 	</div>
 
 	<div class="divider"></div>
+	
+	<div class="section">	
+	<iframe src="https://gitter.im/i244/Lobby" height="500px" width="100%"> </iframe>
+	</div>
+	
+	<div class="divider"></div>
 
 	<div class="section">
 		<h3>Eksam</h3>
