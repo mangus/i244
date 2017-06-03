@@ -565,6 +565,8 @@
 					<li><a class="grey-text text-lighten-3" target="_blank" href="https://gitter.im/i244/">Jututuba</a></li>
 					<li><a class="grey-text text-lighten-3" target="_blank" href="https://echo360.e-ope.ee/ess/portal/section/88b1a22f-7260-4f6e-823c-451034853ea6">Varasemate praktikumide salvestused</a></li>
 					<li><a class="grey-text text-lighten-3" target="_blank" href="http://goo.gl/forms/SZ5ngxlN4m">Iganädalane aruanne</a></li>
+					<li><a class="grey-text text-lighten-3" target="_blank" href="https://validator.w3.org/">Markup Validation Service</a></li>	
+					<li><a class="grey-text text-lighten-3" target="_blank" href="http://enos.itcollege.ee/phpmyadmin//">phpMyAdmin</a></li>					
 				</ul>
 			</div>
 		</div>
