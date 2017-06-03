@@ -4,7 +4,7 @@ class MyMission {
 
 	private $missions = array(
 
-		/* põhieksam 12.06.2016 */
+		/* põhieksam 12.06.2016 * /
 		"Loo lihtne kommentaaride lisamise vorm. Andmed salvesta andmebaasi. Kuva salvestaud kommentaare.",
 		"Loo lihtne kommentaaride lisamise vorm. Andmed salvesta tekstifaili. Kuva salvestatud kommentaare.",
 		"Loo lihtne veebilehe külastajate loendur. Andmed salvesta andmebaasi. Kuva lehel külastuste arvu.",
@@ -21,7 +21,7 @@ class MyMission {
 		"Loo veebilehekülg, mis kuvab kasutajale, kuna kasutaja viimati seda veebilehte külastas.",
 		"Loo veebilehekülg, mis kuvab, kas kasutaja kell on õige (ehk serveri kellaga sama). Kuva lehel ka mõlemad kellaajad.",
 
-		/* Järeleksam 17.06.2016 */
+		/* Järeleksam 17.06.2016 * /
 		"Loo lihtne lehekülg märkmete tegemiseks. Igal kasutajal on oma isiklikud märkmed.",
 		"Loo lihtne lehekülg märkmete tegemiseks. Kõik kasutajad näevad ja muudavad samu märkmeid.",
 		"Loo lihtne hääletuse süsteem. Kasutaja saab hääletada kas \"jah\"/\"ei\". Kuva välja \"jah\"-ide ja \"ei\"-de arv.",
@@ -31,18 +31,21 @@ class MyMission {
 		/* Järeleksam 22.08.2016 */
 		// Kõik eelnevad ülesanded
 
+		/* põhieksam 04.06.2017 */
+		"Loo lihtne kommentaaride lisamise vorm. Kuva salvestaud kommentaare ja kommentaaride arvu.",
+		"Loo lihtne veebilehe külastajate loendur. Kuva lehe külastuste arvu ja viimase külastuse aega.",
+		"Loo lihtne lehekülg märkmete tegemiseks. Igal kasutajal on oma isiklikud märkmed.",
+		"Loo lihtne lehekülg märkmete tegemiseks. Kõik kasutajad näevad ja muudavad samu märkmeid.",
+		"Loo lihtne valuuta kalkulaator. Piisab EUR&#8594;USD ja USD&#8594;EUR võimalusest. Kurss võib olla fikseeritud.",
+		"Loo tavaline tekstifail (näiteks \"salajased_paroolid.txt\") ja piira ligipääsu sellele. Faili sisu nägemiseks on vaja teada parooli.",
+		"Loo lihtsustatud enampakkumise süsteem. Kasutajad saavad teha pakkumisi. Kuva parima pakkuja nime ja summat."
+
 	);
 	private $my;
 
-	const COOKIE_NAME = "mymission3";
-
-	public function __construct() {
-		if (!isset($_COOKIE[self::COOKIE_NAME])) {
-			$this->my = $this->missions[array_rand($this->missions)];
-			setcookie(self::COOKIE_NAME, $this->my, time()+3600*24);
-		} else {
-			$this->my = $_COOKIE[self::COOKIE_NAME];
-		}
+	public function __construct($name) {
+		$bigNr = hexdec(substr(hash('sha256', strtolower(trim($name))), 0, 2));
+		$this->my = $this->missions[$bigNr % count($this->missions)];
 	}
 
 	function getMyMission() {

@@ -1,0 +1,29 @@
+.centerStartPage {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -300px;
+    margin-left: -300px;
+    width: 600px;
+    height: 600px;
+    text-align: center;
+}
+
+.centerExam {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -300px;
+    margin-left: -450px;
+    width: 900px;
+    height: 600px;
+}
+
+.someRoom {
+    padding: 4px;
+}
+
+.centerTitle {
+    text-align: center;
+    padding-bottom: 20px;
+}
