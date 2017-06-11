@@ -1,4 +1,4 @@
-<?php die('Eksam ei ole veel avatud.'); ?>
+<?php //die('Eksam ei ole veel avatud.'); ?>
 <!DOCTYPE html>
 <html lang="et"><head>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">

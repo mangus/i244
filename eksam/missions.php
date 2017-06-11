@@ -32,13 +32,13 @@ class MyMission {
 		// Kõik eelnevad ülesanded
 
 		/* põhieksam 04.06.2017 */
-		"Loo lihtne kommentaaride lisamise vorm. Kuva salvestaud kommentaare ja kommentaaride arvu.",
-		"Loo lihtne veebilehe külastajate loendur. Kuva lehe külastuste arvu ja viimase külastuse aega.",
 		"Loo lihtne lehekülg märkmete tegemiseks. Igal kasutajal on oma isiklikud märkmed.",
+		"Loo lihtsustatud enampakkumise süsteem. Kasutajad saavad teha pakkumisi. Kuva parima pakkuja nime ja summat.",
+		"Loo lihtne kommentaaride lisamise vorm. Kuva salvestaud kommentaare ja kommentaaride arvu.",
+		"Loo tavaline tekstifail (näiteks \"salajased_paroolid.txt\") ja piira ligipääsu sellele. Faili sisu nägemiseks on vaja teada parooli.",
 		"Loo lihtne lehekülg märkmete tegemiseks. Kõik kasutajad näevad ja muudavad samu märkmeid.",
 		"Loo lihtne valuuta kalkulaator. Piisab EUR&#8594;USD ja USD&#8594;EUR võimalusest. Kurss võib olla fikseeritud.",
-		"Loo tavaline tekstifail (näiteks \"salajased_paroolid.txt\") ja piira ligipääsu sellele. Faili sisu nägemiseks on vaja teada parooli.",
-		"Loo lihtsustatud enampakkumise süsteem. Kasutajad saavad teha pakkumisi. Kuva parima pakkuja nime ja summat."
+		"Loo lihtne veebilehe külastajate loendur. Kuva lehe külastuste arvu ja viimase külastuse aega."
 
 	);
 	private $my;
